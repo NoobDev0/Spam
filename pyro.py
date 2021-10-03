@@ -1,5 +1,5 @@
 from pyrogram import Client
-from . import API_HASH, APP_ID
+from .__init__.py import API_HASH, APP_ID
 
 api_id = APP_ID
 api_hash = API_HASH 
