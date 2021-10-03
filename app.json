@@ -1,0 +1,21 @@
+{
+    "name": "Spam",
+    "description": "Spamming",
+    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
+    "website": "https://github.com/NoobDev0,
+    "repository": "https://github.com/NoobDev0/Spam",
+    "success_url": "https://telegram.dog/JonasKhanwaldTG",
+    "env": {
+        "APP_ID": {
+            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "value": ""
+        }
