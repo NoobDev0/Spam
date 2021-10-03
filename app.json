@@ -19,3 +19,17 @@
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
             "value": ""
         }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
+
